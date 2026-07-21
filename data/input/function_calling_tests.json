@@ -1,0 +1,39 @@
+[
+    {
+    "prompt": "Greet shrek"
+  },
+  {
+    "prompt": ""
+  },
+  {
+    "prompt": "What is the sum of 26.555 and 3.45?"
+  },
+  {
+    "prompt": "what is good"
+  },
+
+  {
+    "prompt": "Greet john"
+  },
+  {
+    "prompt": "   "
+  },
+  {
+    "prompt": "Reverse the string 'world'"
+  },
+  {
+    "prompt": ""
+  },
+  {
+    "prompt": "Calculate the square root of 144"
+  },
+  {
+    "prompt": "Replace all numbers in \"Hello 34 I'm 233 years old\" with NUMBERS"
+  },
+  {
+    "prompt": "Replace all vowels in 'Programming is fun' with asterisks"
+  },
+  {
+    "prompt": "Substitute the word 'cat' with 'dog' in 'The cat sat on the mat with another cat'"
+  }
+]
